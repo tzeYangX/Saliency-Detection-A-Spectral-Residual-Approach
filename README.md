@@ -1,6 +1,6 @@
 # Saliency-Detection-A-Spectral-Residual-Approach
 
-Implemention of <Saliency Detection: A Spectral Residual Approach>
+Implemention of "Saliency Detection: A Spectral Residual Approach"
 
 using C++ and opencv3.4.5
 
